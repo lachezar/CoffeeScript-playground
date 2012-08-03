@@ -1,0 +1,1 @@
+Port of `Glazing Ribbon` visualizator from this cool tutorial: [http://thecodeplayer.com/walkthrough/glazing-ribbon-screensaver-effect-in-html5-canvas](http://thecodeplayer.com/walkthrough/glazing-ribbon-screensaver-effect-in-html5-canvas)
